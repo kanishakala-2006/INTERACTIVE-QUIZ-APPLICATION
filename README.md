@@ -27,3 +27,7 @@ The design of the application is enhanced using CSS. A gradient background, styl
 From a technical perspective, the project demonstrates important JavaScript concepts such as arrays, objects, event listeners, conditional statements, and functions. The questions are stored in an array of objects, where each object contains the question text, options, and correct answer. The loadQuestion() function dynamically updates the question and options, while event listeners handle user interactions. The final score display is managed through dynamic HTML content replacement using DOM manipulation.
 
 Overall, this Quiz Application is a simple yet effective project that showcases the practical implementation of front-end web development skills. It can be further enhanced by adding features such as a timer, progress bar, high score storage, database integration, or backend connectivity. This project is suitable for academic submissions and demonstrates a clear understanding of interactive web application development.
+
+#OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c507207e-1ece-490c-91af-16956e17ed2d" />
